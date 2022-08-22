@@ -1,0 +1,13 @@
+*{
+    background-color: #eeee;
+}
+.cont{
+    height: 15h;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#tribute-info{
+    text-align: center;
+}
